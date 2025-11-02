@@ -15,4 +15,4 @@ While the app is speaking, a Lottie animation plays to visualize the voice activ
 
 🧹 Simple and clean UI built with XML + Java.
 
-<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/590786bc-8b16-4787-a631-64e60cc6582c" />
+<img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/590786bc-8b16-4787-a631-64e60cc6582c" />
